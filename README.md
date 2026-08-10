@@ -8,42 +8,33 @@
 -->
 
 
-<!-- Stats -->
+<!-- Stats 
 # 📊 GitHub Stats:
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=d1vyom&theme=aura&hide_border=true" width="50%" />
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=d1vyom&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="36%" />
 </div>
+-->
 
 
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
-    <img src="./profile/stats-light.svg" alt="GitHub Stats" width="49%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
-    <img src="./profile/top-langs-light.svg" alt="Top Languages" width="41%">
-  </picture>
-</p>
-
+# 📊 GitHub Stats:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg">
-    <img src="./profile/streak-light.svg" alt="GitHub Streak" width="70%">
+    <img src="./profile/streak-light.svg" alt="GitHub Streak" width="50%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
+    <img src="./profile/top-langs-light.svg" alt="Top Languages" width="35.9%">
   </picture>
 </p>
 
----
 
-# 🐍 Contribution Activity
 
+<!-- Snake -->
+# 🐍 Contribution Activity:
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg">
@@ -52,7 +43,6 @@
   </picture>
 </p>
 
----
 
 
 <!-- Tech Stack -->
@@ -66,6 +56,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,tailwind,django,mysql,postgres,mongodb,vercel,linux,git,github&perline=11" />
   </a>
 </div>
+
 
 
 <!-- Socials -->
@@ -87,12 +78,5 @@
 <p align="center">
   <b>Let's build something interesting.</b>
 </p>
-
-
-<!-- Snake -->
-<div align="center">
-  
-![snake gif](https://github.com/d1vyom/d1vyom/blob/output/github-snake-dark.svg)
-</div>
 
 
