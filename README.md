@@ -11,8 +11,8 @@
   
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com/?user=d1vyom&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=d1vyom&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com/?user=d1vyom&theme=aura&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=d1vyom&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="36%" />
 </div>
 
 
@@ -45,3 +45,6 @@
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
+
+
+
