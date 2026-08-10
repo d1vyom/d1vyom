@@ -1,0 +1,86 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/profile-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=d1vyom&show_icons=true&include_all_commits=true&count_private=false&theme=default&border_radius=10
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Stats (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=d1vyom&show_icons=true&include_all_commits=true&count_private=false&theme=dark&border_radius=10
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=d1vyom&layout=compact&langs_count=7&count_private=false&theme=default&border_radius=10
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Top Languages (dark)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=d1vyom&layout=compact&langs_count=7&count_private=false&theme=dark&border_radius=10
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Streak (light)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=d1vyom&theme=default&disable_animations=true&hide_border=false&border_radius=10&timezone=Asia%2FKolkata
+          path: profile/streak-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate GitHub Streak (dark)
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=d1vyom&theme=dark&disable_animations=true&hide_border=false&border_radius=10&timezone=Asia%2FKolkata
+          path: profile/streak-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: d1vyom
+          outputs: |
+            profile/github-contribution-grid-snake.svg
+            profile/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          if git diff --cached --quiet; then
+            echo "No profile changes to commit."
+          else
+            git commit -m "chore: update GitHub profile stats"
+            git push
+          fi
