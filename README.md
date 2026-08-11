@@ -54,8 +54,8 @@
   <!-- <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,tailwind,django,mysql,postgres,mongodb,vercel,linux,git,github&perline=11" />
-  </a>
-</div> -->
+  </a> -->
+</div> 
 
 
 
@@ -63,23 +63,24 @@
 # 🌐 Connect With Me:
 <div align="center">
   <a href="https://github.com/d1vyom">
-    <img src="https://skillicons.dev/icons?i=github" width="49" />
+    <img src="https://skillicons.dev/icons?i=github" width="48" />
   </a>
   <a href="https://www.linkedin.com/in/d1vyom">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="49" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
   <a href="https://www.instagram.com/divyom.in">
-    <img src="https://skillicons.dev/icons?i=instagram" width="49" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" />
   </a>
   <a href="https://leetcode.com/u/d1vyom/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="49" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" />
   </a>
-  <a href="https://discord.com/users/1395807306209562684">
-    <img src="https://skillicons.dev/icons?i=discord" width="49" />
+  <a href="https://discord.com/users/818034086086049792">
+    <img src="https://skillicons.dev/icons?i=discord" width="48" />
   </a>
 </div>
+
 <p align="center">
-  <b>Let's build something interesting.</b>
+  <b>Let's build something together.</b>
 </p>
 
 
