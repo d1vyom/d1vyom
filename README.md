@@ -49,13 +49,13 @@
 # 💻 Tech Stack:
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust,html,css,js,ts,react,express&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust,html,css,js,ts,react,express,nodejs,tailwind,django,mysql,postgres,mongodb,supabase,vercel,aws,kubernetes,docker,linux,git,github&perline=14" />
   </a>
-  <br>
+  <!-- <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,tailwind,django,mysql,postgres,mongodb,vercel,linux,git,github&perline=11" />
   </a>
-</div>
+</div> -->
 
 
 
@@ -63,16 +63,19 @@
 # 🌐 Connect With Me:
 <div align="center">
   <a href="https://github.com/d1vyom">
-    <img src="https://skillicons.dev/icons?i=github" width="50" />
+    <img src="https://skillicons.dev/icons?i=github" width="49" />
   </a>
   <a href="https://www.linkedin.com/in/d1vyom">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="49" />
   </a>
   <a href="https://www.instagram.com/divyom.in">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="49" />
   </a>
   <a href="https://leetcode.com/u/d1vyom/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="50" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="49" />
+  </a>
+  <a href="https://discord.com/users/1395807306209562684">
+    <img src="https://skillicons.dev/icons?i=discord" width="49" />
   </a>
 </div>
 <p align="center">
