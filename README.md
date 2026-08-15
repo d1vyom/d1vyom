@@ -49,7 +49,7 @@
 # 💻 Tech Stack:
 <div align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust,html,css,js,ts,react,express,nodejs,tailwind,django,mysql,postgres,mongodb,supabase,vercel,aws,kubernetes,docker,linux,git,github&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,rust,html,css,js,ts,react,nextjs,nodejs,tailwind,django,mysql,postgres,mongodb,supabase,vercel,aws,kubernetes,docker,linux,git,github&perline=14" />
   </a>
   <!-- <br>
   <a href="https://skillicons.dev">
