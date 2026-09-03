@@ -17,6 +17,7 @@
 -->
 
 
+<!-- Stats
 # 📊 GitHub Stats:
 <p align="center">
   <picture>
@@ -30,7 +31,7 @@
     <img src="./profile/top-langs-light.svg" alt="Top Languages" width="35.9%">
   </picture>
 </p>
-
+-->
 
 
 <!-- Snake -->
