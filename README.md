@@ -69,7 +69,7 @@
   <a href="https://www.linkedin.com/in/d1vyom">
     <img src="https://skillicons.dev/icons?i=linkedin" width="48" />
   </a>
-  <a href="https://www.instagram.com/divyom.in">
+  <a href="https://www.instagram.com/dvyoom">
     <img src="https://skillicons.dev/icons?i=instagram" width="48" />
   </a>
   <a href="https://leetcode.com/u/d1vyom/">
