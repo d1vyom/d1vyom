@@ -8,31 +8,6 @@
 -->
 
 
-<!-- Stats 
-# 📊 GitHub Stats:
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=d1vyom&theme=aura&hide_border=true" width="50%" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=d1vyom&theme=aura&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width="36%" />
-</div>
--->
-
-
-<!-- Stats
-# 📊 GitHub Stats:
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg">
-    <img src="./profile/streak-light.svg" alt="GitHub Streak" width="50%">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
-    <img src="./profile/top-langs-light.svg" alt="Top Languages" width="35.9%">
-  </picture>
-</p>
--->
-
 
 <!-- Snake -->
 # 🐍 Contribution Activity:
@@ -52,12 +27,15 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,rust,html,css,js,ts,react,nextjs,nodejs,tailwind,figma,django,fastapi,pytorch,mysql,postgres,supabase,vercel,aws,kubernetes,docker,linux,git,github&perline=14" />
   </a>
-  <!-- <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,tailwind,django,mysql,postgres,mongodb,vercel,linux,git,github&perline=11" />
-  </a> -->
-</div> 
+</div>
 
+<!--Tools
+<table>
+  <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=py,rust,ts,js,bash&theme=dark" height="40" alt="Python, Rust, TypeScript, JavaScript, Bash" /></td></tr>
+  <tr><td><b>DevOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,linux,git,githubactions&theme=dark" height="40" alt="Docker, Linux, Git, GitHub Actions" /></td></tr>
+  <tr><td><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=cloudflare,vercel&theme=dark" height="40" alt="Cloudflare, Vercel" /></td></tr>
+</table>
+-->
 
 
 <!-- Socials -->
